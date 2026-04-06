@@ -1,4 +1,4 @@
-# API de Produtos - ASP.NET Core (.NET)
+# API de Produtos - ASP.NET Core com Claude Code
 
 API RESTful desenvolvida com ASP.NET Core utilizando Minimal APIs, Entity Framework Core e SQLite para gerenciamento de produtos usando o Claude Code.
 
