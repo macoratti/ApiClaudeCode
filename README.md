@@ -19,6 +19,7 @@ API RESTful desenvolvida com ASP.NET Core utilizando Minimal APIs, Entity Framew
 ```Text
 ApiClaudeCode
 │
+├── CLAUDE.MD
 ├── Data
 │ ├── AppDbContext.cs
 │ └── Configurations/
