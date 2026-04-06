@@ -60,6 +60,7 @@ As entidades devem:
 
 ## Program Configuration
 
+- Instalar o pacote Microsoft.AspNetCore.OpenApi caso não esteja presente
 - Instalar o pacote Swashbucle.AspNetCore.SwaggerUI no projeto
 - **Configurar em `Program.cs` (Development only):**
 ```csharp
